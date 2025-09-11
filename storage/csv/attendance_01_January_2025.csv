@@ -1,0 +1,7 @@
+S.No,"Employee ID","Employee Name",Latitude,Longitude,Date,"Check IN","Check OUT",Status,Note,Created
+1,EMP-7,"Manish Kumar Jangid",26.9196,75.7878,31-12-2024,"31-12-2024 11:21 am","31-12-2024 03:58 pm",Absent,"Aaj kaa lohin","2024-12-31 11:21:06"
+2,EMP-7,"Manish Kumar Jangid",26.9196,75.7878,30-12-2024,"30-12-2024 11:03 am","30-12-2024 11:05 am",Absent,hh,"2024-12-30 11:03:15"
+3,EMP-7,"Manish Kumar Jangid",26.9196,75.7878,28-12-2024,"28-12-2024 04:41 pm",,Present,"aaj ki live attendence yes","2024-12-28 16:41:35"
+4,EMP-7,"Manish Kumar Jangid",26.9196,75.7878,27-12-2024,"27-12-2024 05:53 pm","27-12-2024 05:57 pm",Absent,"this is test
+message","2024-12-27 17:53:05"
+,
